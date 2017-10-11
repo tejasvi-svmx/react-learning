@@ -94,7 +94,7 @@ export default class SelectField extends Component {
 
 SelectField.defaultProps = {
   disabled: false,
-  requried: false,
+  required: false,
   fieldLabel: 'label',
   fieldValue: 'value',
 };
